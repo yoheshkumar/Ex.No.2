@@ -1,6 +1,6 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:17-03-25                                                                            
+### DATE:12.04.2025                                                                           
 ### REGISTER NUMBER : 212222240118
  
 # Aim:
